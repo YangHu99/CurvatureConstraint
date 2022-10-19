@@ -12,7 +12,7 @@ Strong gravitational lenses, source: [LSST DESC data products](https://lsstdesc.
 **Pantheon-like:**  
 [sys_DS17f.csv](/Data/sys_DS17f.csv)     
 [syscov_WFIRST.txt](/Data/syscov_WFIRST.txt)   
-Type Ia supernovae, source: [Pantheon](https://github.com/dscolnic/Pantheon)
+Type Ia supernovae, source: [Pantheon](https://github.com/dscolnic/Pantheon)   
 **Roman-like:**    
 [lcparam_DS17f.csv](/Data/lcparam_DS17f.csv)   
 [lcparam_WFIRST_G10.txt](/Data/lcparam_WFIRST_G10.txt)   
