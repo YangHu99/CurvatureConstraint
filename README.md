@@ -1,4 +1,4 @@
-# CurvatureConstraint
+# Constrain_curvature_with_strong_lenses
 This repository contains all the data and code for the project "Constraining Curvature Density Parameter by Combining Time-Delay Lenses with Other Probes: a Forecast for Next-Generation Surveys". 
 
 Users will need to install [astropy](https://www.astropy.org/), [emcee](https://emcee.readthedocs.io/en/stable/user/install/), [corner](https://corner.readthedocs.io/en/latest/install/) and [george](https://george.readthedocs.io/en/latest/user/quickstart/) python packages in order to run the code in the [Scripts](/Scripts) directory
