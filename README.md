@@ -5,7 +5,7 @@ Users will need to install [astropy](https://www.astropy.org/), [emcee](https://
 
 In the [Scripts](/Scripts) directory, users can find code for analysis on constraining curvature density parameter and other cosmological parameters using either strong gravitational lenses alone or with other complimentary probes. The analysis are done in two ways: one is non-parametric, indicated by the presence of word **"HzGP"** in the names; second is model-dependent, with a mock universe of either oLCDM or owCDM model assumed.
 
-In the [Data](/Data) directory, users can find simulated data files for cosmological probes with the following attributes:
+In the [Data](/Data) directory, users can find simulated data files for cosmological probes with the following attributes:   
 **LSST-like:**  
 [zlens_zsource_LSSTLike.txt](/Data/zlens_zsource_LSSTLike.txt)   
 Strong gravitational lenses, source: [LSST DESC data products](https://lsstdesc.org/)   
